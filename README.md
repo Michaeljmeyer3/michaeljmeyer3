@@ -50,7 +50,7 @@ preview
 
 - 🌱 I’m currently learning **Qwik, Solid, Django**
 
-- 🤝 I’m looking for help with [abettor](abettor.us) -- currently moving hosts
+- 🤝 I’m looking for help with [http://abettor](abettor.us) -- currently moving hosts
 
 - 👨‍💻 Some of my projects are available @ [http://michaeljmeyer3.com](http://michaeljmeyer3.com)
 
@@ -62,13 +62,12 @@ preview
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@michaeljmeyer3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@michaeljmeyer3" height="30" width="40" /></a>
+<a href="https://codepen.io/michaeljmeyer3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@michaeljmeyer3" height="30" width="40" /></a>
 <a href="https://dev.to/michaeljmeyer3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="michaeljmeyer3" height="30" width="40" /></a>
 <a href="https://twitter.com/michaeljmeyer3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michaeljmeyer3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/michaeljmeyer3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaeljmeyer3" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/michaeljmeyer3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="michaeljmeyer3" height="30" width="40" /></a>
-<a href="https://codesandbox.com/michaeljmeyer3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="michaeljmeyer3" height="30" width="40" /></a>
-<a href="https://fb.com/michaeljmeyer3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michaeljmeyer3" height="30" width="40" /></a>
+
+<a href="https://fb.com/michaeljmeyerIII" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michaeljmeyer3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
