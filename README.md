@@ -46,21 +46,19 @@ preview
 
 <p align="left"> <a href="https://twitter.com/michaeljmeyer3" target="blank"><img src="https://img.shields.io/twitter/follow/michaeljmeyer3?logo=twitter&style=for-the-badge" alt="michaeljmeyer3" /></a> </p>
 
-- 🔭 I’m currently working on [foolsbounty](foolsbounty.com)
+- 🔭 I’m currently working on [foolsbounty](http://foolsbounty.com)
 
 - 🌱 I’m currently learning **Qwik, Solid, Django**
 
-- 🤝 I’m looking for help with [abettor](abettor.us)
+- 🤝 I’m looking for help with [abettor](abettor.us) -- currently moving hosts
 
-- 👨‍💻 All of my projects are available at [michaeljmeyer3.com](michaeljmeyer3.com)
+- 👨‍💻 Some of my projects are available @ [http://michaeljmeyer3.com](http://michaeljmeyer3.com)
 
-- 📝 I regularly write articles on [michaeljmeyer3.com](michaeljmeyer3.com)
+- 📝 Check out some of my writing @ [michaeljmeyer3.com](http://michaeljmeyer3.com/blog)
 
 - 💬 Ask me about **React, Golang**
 
-- 📄 Know about my experiences [michaeljmeyer3.com/resume](michaeljmeyer3.com/resume)
-
-- ⚡ Fun fact **I am a scorpio**
+- ⚡ Fun fact **I am an unsexy scorpio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
